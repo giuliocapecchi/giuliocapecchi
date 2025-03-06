@@ -4,7 +4,6 @@
     <a href="https://www.linkedin.com/in/giulio-capecchi/" target="_blank">linkedin</a> .
     <a href="https://x.com/giulio_capecchi" target="_blank">X</a> .
     <a href="https://t.me/giulio_cape" target="_blank">telegram</a> .
-    <a href="https://instagram.com/giulio_capecchi" target="_blank">instagram</a> .
     <a href="mailto:giuliocapecchi2000@gmail.com" target="_blank">email</a>
   </samp>
 </p>
