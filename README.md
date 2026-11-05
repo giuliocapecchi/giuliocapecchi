@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    <a href="https://giuliocapecchi.github.io" target="_blank">github.io</a> .
+    <a href="https://giulio.cc" target="_blank">giulio.cc</a> .
     <a href="https://www.linkedin.com/in/giulio-capecchi/" target="_blank">linkedin</a> .
     <a href="https://x.com/giulio_capecchi" target="_blank">X</a> .
     <a href="https://t.me/giulio_cape" target="_blank">telegram</a> .
